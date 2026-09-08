@@ -9,7 +9,7 @@ description: >-
   「结对评审」/「发版前扫一眼」/ yotta-code-quality.
   Do NOT trigger for: greenfield "how do I write X" with no code, pure syntax questions,
   or tool/framework questions with no shared code.
-version: 0.3.4
+version: 0.4.0
 license: MIT
 ---
 
@@ -128,3 +128,5 @@ Scoring math and report template: **`references/common.md` only** (do not duplic
 | `references/examples.md` | Tone calibration |
 | `references/AGENTS-template.md` | Optional repo drop-in |
 | `references/hooks.json` | Optional dangerous-command hook |
+| `references/faq.md` | Common questions and troubleshooting |
+| `references/walkthroughs.md` | Complex review walkthroughs |

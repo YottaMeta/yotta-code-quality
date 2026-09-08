@@ -235,3 +235,8 @@ bash install.sh --list           # 列出智能体 -> 默认目录
 
 - **方法论**蒸馏自 12 本经典软件工程著作及开源社区质量审查实践（MIT）；原始方法论版权归 hyhmrright，本技能在其基础上重写为单一自包含、跨智能体通用的版本，并增补 R7 / UX1 / 按需加载会话契约。
 - **许可：** MIT —— 详见 `LICENSE`（版权人：hyhmrright（原始方法论）+ YottaMeta（本打包））。
+
+## 参考文档
+
+- references/faq.md
+- references/walkthroughs.md

@@ -227,6 +227,11 @@ Agent: PR mode → .code-quality.yaml config → auto scope → 7 steps in pr-re
 
 See [CHANGELOG.md](./CHANGELOG.md).
 
+## 参考文档
+
+- 常见问题：`references/faq.md`
+- 复杂场景走查：`references/walkthroughs.md`
+
 ## License
 
 [MIT](./LICENSE) © hyhmrright (original methodology) + YottaMeta (this packaging). "Yuanzhi" / "yotta-code-quality" and the YottaMeta family names (yotta-* prefix) are YottaMeta brand identifiers; derived works must not reuse them, see [NOTICE](./NOTICE).
