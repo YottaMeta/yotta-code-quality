@@ -13,7 +13,7 @@ For Source line prefer `Editorial — Release Safety` / `Editorial — First-pai
 - Updater / installer: signature verification skipped, missing pubkey, artifacts unsigned while “auto-update” is on.
 - Production DevTools / debug features left enabled in release builds.
 - CSP `null` / wildly open `connect-src` / `unsafe-eval` in production without documented need.
-- `curl | sh` or equivalent in docs/scripts aimed at end users.
+- Remote download pipelines that pass content directly to a shell in docs/scripts aimed at end users.
 - Dependency or plugin allowlists that effectively disable sandboxing for convenience.
 
 ### Severity guide

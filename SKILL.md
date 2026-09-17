@@ -9,7 +9,7 @@ description: >-
   「结对评审」/「发版前扫一眼」/ yotta-code-quality.
   Do NOT trigger for: greenfield "how do I write X" with no code, pure syntax questions,
   or tool/framework questions with no shared code.
-version: 0.4.0
+version: 0.4.1
 license: MIT
 ---
 
