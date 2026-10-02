@@ -1,3 +1,7 @@
+## v0.4.3 (2026-10-02)
+
+- 分发副本 frontmatter 修复：`description` 改为单引号 YAML 标量，修复严格 YAML 解析器（官方 `skills` CLI）跳过本技能的问题；生成器同步新增 fail-closed 校验与回归测试。
+
 ## v0.4.2 (2026-10-01)
 
 - 安装器卫生批次：`bin/install.js` / `install.sh` 统一（未知参数报错 exit 2、`--help` / `--version`、残留清理白名单、嵌套载荷保留）；由模板单一真源渲染，接入漂移门禁。
