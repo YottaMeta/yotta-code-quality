@@ -1,3 +1,7 @@
+## v0.4.4 (2026-11-01)
+
+- 安装器 containment：目标根 / 嵌套链接 fail-closed；受管 Hub 链接解析真实目标；精简安装器同口径。
+
 ## v0.4.3 (2026-10-02)
 
 - 分发副本 frontmatter 修复：`description` 改为单引号 YAML 标量，修复严格 YAML 解析器（官方 `skills` CLI）跳过本技能的问题；生成器同步新增 fail-closed 校验与回归测试。
